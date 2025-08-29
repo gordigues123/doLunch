@@ -1,44 +1,44 @@
 [
     {
       "id": "1",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Solo Cuarto",
-      "price": "$25.00",
+      "price": "25.00",
       "description": "2 Presas de pollo(ala, pecho, pierna, entrepierna),1 salsa,1 vaso de llajua"
     },
     {
       "id": "2",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Cuarto Pollo",
-      "price": "$33.00",
+      "price": "33.00",
       "description": "2 presas de pollo(ala, pecho o pierna - entrepierna), 1 porcion (papa o arroz o arroz con frijol), 1 salsa,1 vaso de llajua"
     },
     {
       "id": "3",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Solo Medio",
-      "price": "$48.00",
+      "price": "48.00",
       "description": "4 Presas de pollo(ala, pecho, pierna, entrepierna o 2 piernas, 2 entrepiernas), 2 salsas,1 vaso de llajua"
     },
     {
       "id": "4",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Medio Pollo",
-      "price": "$56.00",
+      "price": "56.00",
       "description": "4 Presas de pollo(ala, pecho, pierna, entrepierna o 2 piernas, 2 entrepiernas), 1 porcion (papa o arroz o arroz con frijol), 2 salsa,1 vaso de llajua"
     },
     {
       "id": "5",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo Queen",
-      "price": "$39.00",
+      "price": "39.00",
       "description": "2 Presas de pollo(ala - pecho o pierna - entrepierna),1 porcion (papas o arroz o arroz con frijol), 1 vaso de refresco, 1 salsa,1 vaso de llajua"
     },
     {
       "id": "6",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo King",
-      "price": "$62.00",
+      "price": "62.00",
       "description": "4 Presas de pollo, 1 Porcion (papa o arroz o arroz con frijol), 1 Vaso de refresco, 2 salsas,1 vaso de llajua"
     }
   ]

@@ -1,65 +1,65 @@
 [
     {
       "id": "1",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo 1",
-      "price": "$32.00",
+      "price": "32.00",
       "description": "1 Presa + guarnición + 1 refresco + Porcion de papa 210g + Porcion de platano 40g"
     },
     {
       "id": "2",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo 2",
-      "price": "$45.00",
+      "price": "45.00",
       "description": "2 Presas + 1 porción de papa + 1 porción de plátano + 1 refresco"
     },
     {
       "id": "3",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo 3",
-      "price": "$60.00",
+      "price": "60.00",
       "description": "3 presas(pierna, muslo, ala) + Porcion de papa + Porcion de platano + Refresco 500 ml"
     },
     {
       "id": "4",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo Economico Basico",
-      "price": "$26.00",
+      "price": "26.00",
       "description": "1 presa + 1 porcion de papa mediana + 1 porcion de platano + 1 gaseosa de 300 ml"
     },
     {
       "id": "5",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo Economico Tradicional",
-      "price": "$28.00",
+      "price": "28.00",
       "description": "1 presa + 1 bebida 500ml +1 porcion papa mediana + 1 porcion platano + 1 bebida 500 ml"
     },
     {
       "id": "6",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Combo Economico Plus",
-      "price": "$31.00",
+      "price": "31.00",
       "description": "1 presa + 1 porcion de papa mediana + 1 porcion de platano + 1 gaseosa de 300 ml + 1 porcion de arroz"
     },
     {
       "id": "7",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Menu 1",
-      "price": "$26.00",
+      "price": "26.00",
       "description": "1 presa (pierna, muslo, ala) + Porción de papa 210g + Porción de plátano 40 g"
     },
     {
       "id": "8",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Menu 2",
-      "price": "$39.00",
+      "price": "39.00",
       "description": "2 presas(pierna, muslo, ala) + Porción de papa 210g + Porción de plátano 40 g"
     },
     {
       "id": "9",
-      "image": "Image goes hear.",
+      "image": "https://gordigues123.github.io/doLunch/images/image2.jpeg",
       "food": "Menu 3",
-      "price": "$52.00",
+      "price": "52.00",
       "description": "3 presas(pierna, muslo, ala) + Porción de papa 210g + Porción de plátano 40 g"
     }
   ]
