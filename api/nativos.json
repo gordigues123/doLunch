@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "image": "Image goes hear.",
+      "food": "Nativa clásica",
+      "price": "$20.00",
+      "description": "Milanesa de res con papa y ensalada criolla (tomate y cebolla)"
+    },
+    {
+      "id": "2",
+      "image": "Image goes hear.",
+      "food": "Nativa doble",
+      "price": "$26.00",
+      "description": "Dos capas de milanesa de res, papa sellada y ensalada criolla (tomate y cebolla)."
+    },
+    {
+      "id": "3",
+      "image": "Image goes hear.",
+      "food": "Nativa brutal",
+      "price": "$32.00",
+      "description": "Tres capas de milanesa de res y ensalada criolla (tomate y cebolla)"
+    },
+    {
+      "id": "4",
+      "image": "Image goes hear.",
+      "food": "Cacique con tocino",
+      "price": "$23.00",
+      "description": "Trozos de res marinados y salteados en ingredientes, especiales, acompañados de tocino y huevo frito."
+    },
+    {
+      "id": "5",
+      "image": "Image goes hear.",
+      "food": "Cacique con plátano",
+      "price": "$22.00",
+      "description": "Trozos de res marinados y salteados en ingredientes especiales, acompañados de cebolla caramelizada, huevo y plátano frito."
+    },
+    {
+      "id": "6",
+      "image": "Image goes hear.",
+      "food": "Nativa clásica",
+      "price": "$20.00",
+      "description": "Milanesa de res con papa y ensalada criolla (tomate y cebolla)"
+    }
+  ]

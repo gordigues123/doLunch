@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "image": "Image goes hear.",
+      "food": "1 PRESA",
+      "price": "$22.00",
+      "description": "1 Presa jugosa (pierna o muslo)+ 1 Porción de arroz o papas fritas+1 Salsa Golf."
+    },
+    {
+      "id": "2",
+      "image": "Image goes hear.",
+      "food": "ECO DOBLE",
+      "price": "$25.00",
+      "description": "2 presas (pierna + muslo) , 1 arroz o papa (a eleccion) y 1 salsa golf"
+    },
+    {
+      "id": "3",
+      "image": "Image goes hear.",
+      "food": "PREMIUM DOBLE",
+      "price": "$34.00",
+      "description": "Elige tus presas favoritas 🍚 + Arroz especial🥔 + Papa crocante🍌 + Platanito dulce🥣 + Salsa golf🔥"
+    },
+    {
+      "id": "4",
+      "image": "Image goes hear.",
+      "food": "PROMO - DOBLE PREMIUM",
+      "price": "$34.00",
+      "description": "2 presas de pollo(a eleccion)+🥔 1 porción de papa+🍚 1 porción de arroz+🍌 1 platanito+🥣 1 salsa golf"
+    }
+  ]
